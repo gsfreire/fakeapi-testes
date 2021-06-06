@@ -1,0 +1,68 @@
+{
+  "ocorrencias": [
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "MRV-XY1203-42091X",
+      "status": "PREVISÃO DE RESPOSTA",
+      "assunto": "Outros",
+      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
+      "dataInicioOcorrencia": "15 jan 2021",
+      "dataRespostaOcorrencia": "22 fev 2021"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    },
+    {
+      "numeroProtocolo": "OUV-XY1203-42091X",
+      "status": "CANCELADO EM",
+      "assunto": "Assistência técnica",
+      "descricaoSolucao": "Morador Falesceu",
+      "dataInicioOcorrencia": "01 fev 2021",
+      "dataRespostaOcorrencia": "14 fev 2026"
+    }
+  ]
+}
