@@ -2,7 +2,7 @@
   "ocorrencias": [
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Morador Falesceu",
       "dataCriacao": "01 fev 2021",
@@ -10,7 +10,7 @@
     },
     {
       "numeroProtocolo": "MRV-XY1203-42091X",
-      "status": "PREVISÃO DE RESPOSTA",
+      "status": "EmAberto",
       "assunto": "Outros",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "15 jan 2021",
@@ -18,7 +18,7 @@
     },
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "01 fev 2021",
@@ -26,7 +26,7 @@
     },
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "01 fev 2021",
@@ -34,7 +34,7 @@
     },
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "01 fev 2021",
@@ -42,7 +42,7 @@
     },
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "01 fev 2021",
@@ -50,7 +50,7 @@
     },
     {
       "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "CANCELADO EM",
+      "status": "Cancelada",
       "assunto": "Assistência técnica",
       "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
       "dataCriacao": "01 fev 2021",
