@@ -8,53 +8,5 @@
         "dataCriacao": "2021-05-05T16:54:52Z",
         "dataPrevisaoResolucao": "2021-07-02T00:00:00Z"
     },
-    {
-      "numeroProtocolo": "MRV-XY1203-42091X",
-      "status": "EmAberto",
-      "assunto": "Outros",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "15 jan 2021",
-      "dataPrevisaoResolucao": "22 fev 2021"
-    },
-    {
-      "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "Cancelada",
-      "assunto": "Assistência técnica",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "01 fev 2021",
-      "dataPrevisaoResolucao": "14 fev 2026"
-    },
-    {
-      "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "Cancelada",
-      "assunto": "Assistência técnica",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "01 fev 2021",
-      "dataPrevisaoResolucao": "14 fev 2026"
-    },
-    {
-      "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "Cancelada",
-      "assunto": "Assistência técnica",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "01 fev 2021",
-      "dataPrevisaoResolucao": "14 fev 2026"
-    },
-    {
-      "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "Cancelada",
-      "assunto": "Assistência técnica",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "01 fev 2021",
-      "dataPrevisaoResolucao": "14 fev 2026"
-    },
-    {
-      "numeroProtocolo": "OUV-XY1203-42091X",
-      "status": "Cancelada",
-      "assunto": "Assistência técnica",
-      "descricaoSolucao": "Solicitação recusada por falta de manutenção preventiva ou mau uso",
-      "dataCriacao": "01 fev 2021",
-      "dataPrevisaoResolucao": "14 fev 2026"
-    }
   ]
 }
